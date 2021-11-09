@@ -6,7 +6,16 @@
 
 ### Hi there 👋,
 
-My name is Yosra. I am a 20 year old software engineering student from Alexandria, Egypt. I have a passion for learning and building apps.
+My name is Yosra. I am a 21 year old software engineering student from Alexandria, Egypt. I have a passion for learning and building apps.
+
+🖥️ Frontend: React, HTML, CSS, Javascript.
+
+📱 Mobile: Flutter.
+
+💻 Desktop: Java, python.
+
+📝 Currently learning backend development!
+
 <hr>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yosraemad&show_icons=true&theme=radical">
