@@ -14,7 +14,7 @@ My name is Yosra. I am a 21 year old software engineering student from Alexandri
 
 💻 Desktop: Java, python.
 
-📝 Currently learning backend development!
+📝 Currently learning Machine Learning and AI!
 
 <hr>
 <p align="center">
