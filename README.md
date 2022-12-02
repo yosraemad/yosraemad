@@ -14,8 +14,6 @@ My name is Yosra. I am a 21 year old software engineering student from Alexandri
 
 💻 Desktop: Java, python.
 
-📝 Currently learning Machine Learning and AI!
-
 <hr>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yosraemad&show_icons=true&theme=radical">
