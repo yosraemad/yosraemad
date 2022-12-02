@@ -18,9 +18,6 @@ My name is Yosra. I am a 21 year old software engineering student from Alexandri
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yosraemad&show_icons=true&theme=radical">
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosraemad&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919">
-</p>
 
 <!--
 **yosraemad/yosraemad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
