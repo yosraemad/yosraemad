@@ -4,21 +4,20 @@
 <a href="https://www.linkedin.com/in/yosrational/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
+<div style="display:flex">
+
+<div style="margin-right: 10px">
+
 ### Hi there 👋,
 
-My name is Yosra. I am a 21 year old software engineering student from Alexandria, Egypt. I have a passion for learning and building apps.
 
-🖥️ Frontend: React, HTML, CSS, Javascript.
+My name is Yosra. I am a 22 year old software engineering student from Alexandria, Egypt. I have a passion for learning and building apps.
 
-📱 Mobile: Flutter.
+</div>
 
-💻 Desktop: Java, python.
+<img style="width:300px" src="https://github-readme-stats.vercel.app/api?username=yosraemad&show_icons=true&theme=radical">
 
-<hr>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yosraemad&show_icons=true&theme=radical">
-</p>
-
+</div>
 <!--
 **yosraemad/yosraemad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
