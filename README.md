@@ -10,8 +10,11 @@
 
 ### Hi there 👋,
 
+I am Yosra, a software engineer with 3+ years of experience in the field. I am both a web developer and a mobile developer. 
 
-My name is Yosra. I am a 22 year old software engineering student from Alexandria, Egypt. I have a passion for learning and building apps.
+- ⚒️ I am currently working on building Level Up, an app for gamifying your life missions.
+- 📖 I am currently learning data engineering.
+- 🎉 Hobbies: Running, Hiking, Crocheting, Reading and Writing
 
 </div>
 
