@@ -17,9 +17,6 @@ I am Yosra, a software engineer with 3+ years of experience in the field. I am b
 - 🎉 Hobbies: Running, Hiking, Crocheting, Reading and Writing
 
 </div>
-
-<img style="width:300px" src="https://github-readme-stats.vercel.app/api?username=yosraemad&show_icons=true&theme=radical">
-
 </div>
 <!--
 **yosraemad/yosraemad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
